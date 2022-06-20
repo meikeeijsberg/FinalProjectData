@@ -1,6 +1,6 @@
 year,killings,countryhighestkillings,countrykillingsvalue,countryhighestmurders,countrymurdersvalue
-1992,45,"Tajikistan, Turkey",9,Turkey,8
-1993,56,"Russia, Algeria",8,Algeria,8
+1992,45,"Tajikistan and Turkey",9,Turkey,8
+1993,56,"Russia and Algeria",8,Algeria,8
 1994,66,Algeria,18,Algeria,18
 1995,51,Algeria,24,Algeria,24
 1996,26,Algeria,7,Algeria,7
@@ -27,6 +27,6 @@ year,killings,countryhighestkillings,countrykillingsvalue,countryhighestmurders,
 2017,47,Syria,9,Mexico,6
 2018,56,Afghanistan,13,Afghanistan,10
 2019,26,Syria,7,Mexico ,5
-2020,32,Mexico ,5,Afghanistan,5
+2020,32,Mexico,5,Afghanistan,5
 2021,28,India,5,Mexico,4
 2022,17,Ukraine,7,Mexico,3
